@@ -1,0 +1,15 @@
+.App {
+}
+
+nav {
+  color: white;
+  text-align: center;
+}
+
+.jumbotron {
+  margin-top: 15%;
+}
+
+.display-message {
+  padding-top: 5%;
+}
